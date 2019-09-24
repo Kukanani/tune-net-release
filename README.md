@@ -11,6 +11,9 @@ https://arxiv.org/abs/1907.11200
 This includes all code needed to make the plots contained in the paper (Figure 2), showing parameter error
 as a function of simulation rollouts.
 
+# Video
+[![TuneNet Video](https://i.imgur.com/XyZuax1.png)](https://www.youtube.com/watch?v=Ux2pSmZx3uE "TuneNet Video")
+
 # Requirements
 
 - Python 3.5+
