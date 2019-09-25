@@ -12,7 +12,7 @@ This includes all code needed to make the plots contained in the paper (Figure 2
 as a function of simulation rollouts.
 
 # Video
-[![TuneNet Video](https://i.imgur.com/XyZuax1.png)](https://www.youtube.com/watch?v=Ux2pSmZx3uE "TuneNet Video")
+[![TuneNet Video](https://i.imgur.com/XyZuax1.png)](https://youtu.be/EeVPGxQfxvU "TuneNet Video")
 
 # Requirements
 
